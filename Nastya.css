@@ -1,0 +1,43 @@
+.h1 {
+    font-style: Roboto; color: white;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46.88px;
+    text-align: center;
+}
+
+.starter {
+    font-style: Roboto; color: white;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35.16px;
+    text-align: center;
+}
+
+.premium {
+    font-style: Roboto; color: white;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35.16px;
+    text-align: center;
+}
+
+.standart {
+    font-style: Roboto; color: #172755;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35.16px;
+    text-align: center;
+}
+
+button {
+    background-color: #2A407C;
+    text-decoration: none;
+    padding: 10 80 10 80;
+}
+
+.button-standart {
+    background-color: #EF2A82;
+    text-decoration: none;
+    padding: 10 80 10 80;
+}
